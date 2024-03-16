@@ -3,7 +3,7 @@ Eu, enquanto <quem>, quero <oque>, para <por que>.
 Para <por que>, enquanto <quem>, eu quero <o que>.
 
 
-Eu, enquanto Gerente de Aeroporto, quero ter noção da disponibilidade dos totens, para poder tomar atitudes efetivas visando melhorar o fluxo de pessoas e evitar filas excessivas e atrasos.
+Eu, enquanto Gerente de Aeroporto, quero ter obter informações da disponibilidade dos totens através de dashboards e KPI's, para poder tomar atitudes efetivas visando melhorar o fluxo de pessoas e evitar filas excessivas e atrasos.
 
 Eu, enquanto Suporte dos totens, quero ter acesso remoto à situação do hardware, para poder ser um facilitador em encontrar o problema/incidente que está ocorrendo e maximizar o processo de suporte do mesmo.
  
