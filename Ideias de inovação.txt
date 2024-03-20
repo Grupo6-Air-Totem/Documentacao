@@ -1,7 +1,0 @@
-Ideias de inovação:
-1- monitoramento do hardwere do leitor de codigos (qr ou de barras).
-2- camada de segurança a fim de evitar invações ou depedrações dos bens.
-3- Assistente vitual
-4- login web
-5- swagger
-6- 
