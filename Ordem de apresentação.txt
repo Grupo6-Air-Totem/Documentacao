@@ -1,0 +1,27 @@
+Contexto Definição do Negócio  Visita Inovação Proto-Persona /
+Planner/
+Site estático institucional/
+Lista de dados necessários/
+Lições Aprendidas
+StoryBoard/
+Login no sistema utilizando console (s/ BD)/
+Histórias de Usuário/
+Requisitos, Backlog/
+Lean UX Canvas/
+Cliente Linux Local com Camada de Segurança/
+Proto-Persona/
+
+1° - Contexto (Apresentar grupo eo projeto, contextualizar o projeto - Ryan
+2° - Planner - Ryan
+3° - Proto-Persona - Ester
+4° - StoryBoard - Ester
+5° - Histórias de Usuário - Ester
+6° - Lean UX Canvas - Marcos
+7° - Requisitos & Backlog - Marcos
+8° - Lista de dados necessários - Marcos
+9° - Site estático institucional - Lucas
+10° - Login no sistema utilizando console (s/ BD) - Lucas
+11° - Cliente Linux Local com Camada de Segurança - Caue
+12° - Inovação - Caue
+13° - Lições Aprendidas - Caue
+14° - Agradecimentos - Ryan
