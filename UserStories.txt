@@ -11,3 +11,19 @@ Administrador (ADM): Responsável pelo CRUD (Create, Read, Update, Delete) dos u
 Suporte: Encarregado de monitorar o hardware e aplicar soluções para resolver problemas nos totens, com acesso ao aplicativo cliente e aos dados técnicos de monitoramento enviados pelo mesmo para o aplicativo web.
 
 Gerência/Supervisores: Têm acesso às informações (não tecnicas) de status dos totens em seu setor e podem abrir chamados para a equipe de suporte verificar anormalidades.
+
+
+
+User Stories
+
+-eu enquanto gerente da companhia aerea quero poder efetuar um futuro desligamento de um funcionário através do meu perfil em sua aplicação
+
+-eu enquanto suporte da companhia aerea quero realizar os processos de desligar e reiniciar os totens através da sua aplicação para poder controlar o funcionamento da máquina
+
+-eu enquanto gerente da companhia aerea quero que ao ocorrer um mau funcionamento de um totem, desejo receber um alerta em um canal de comunicação para me manter informado quando ocorre um problema
+
+-eu enquanto suporte da companhia aerea quero que ao abrir sua aplicação,  exibir o status de funcionamento de cada totem(PARADO,OPERANDO,TESTANDO,MANUTENÇÃO) para saber como está operando meu totem e assim poder realizar os processos necessários
+
+-eu, enquanto Gerente de Aeroporto, quero ter obter informações da disponibilidade dos totens através de dashboards e KPI's, para poder tomar atitudes efetivas visando melhorar o fluxo de pessoas e evitar filas excessivas e atrasos
+
+-Eu, enquanto Suporte dos totens, quero ter acesso remoto à situação do hardware, para poder ser um facilitador em encontrar o problema/incidente que está ocorrendo e maximizar o processo de suporte do mesmo
