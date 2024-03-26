@@ -1,0 +1,13 @@
+Desenvolver um sistema sistema de monitoramento composto por um aplicativo cliente e um aplicativo web, utilizando os princípios do ITIL de Monitoramento de Serviços, Gestão de Incidentes e Gestão de Problemas.
+
+O app web será responsável por exibir o monitoramento remoto do sistema operacional (SO) e hardware, capturando dados enviados pelo app cliente formando informações para cada tipo de perfil, exibindo de formas diferentes para cada deles, utilizando de KPI'S, dashboards, dados e relatorios relevantes para cada perfil especifico. O app sera acessado atravez de login que trara telas e informações diferentes dependendo das credenciais de cada perfil.
+
+O app cliente coleta dados dos hardwere e SO dos totens e os envia para o app web, que gera informações como dashboards, indicandres de totens fora de sistema, etc. Além de ter uma dash propria que coleta dados do sistema e exibi diretamente no app cliente, a equipe de suporte tem acesso ao aplicativo cliente instalado nos totens para acompanhar e resolver problemas de forma remota, utilizando de login para poder acessar o app cliente.
+
+O sistema contará com três tipos de perfil de usuário:
+
+Administrador (ADM): Responsável pelo CRUD (Create, Read, Update, Delete) dos usuários do sistema, tendo acesso a todas as informações de cada usuario e a todos os perfis.
+
+Suporte: Encarregado de monitorar o hardware e aplicar soluções para resolver problemas nos totens, com acesso ao aplicativo cliente e aos dados técnicos de monitoramento enviados pelo mesmo para o aplicativo web.
+
+Gerência/Supervisores: Têm acesso às informações (não tecnicas) de status dos totens em seu setor e podem abrir chamados para a equipe de suporte verificar anormalidades.
