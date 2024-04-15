@@ -1,9 +1,3 @@
-Desenvolver um sistema sistema de monitoramento composto por um aplicativo cliente e um aplicativo web, utilizando os princípios do ITIL de Monitoramento de Serviços, Gestão de Incidentes e Gestão de Problemas.
-
-O app web será responsável por exibir o monitoramento remoto do sistema operacional (SO) e hardware, capturando dados enviados pelo app cliente formando informações para cada tipo de perfil, exibindo de formas diferentes para cada deles, utilizando de KPI'S, dashboards, dados e relatorios relevantes para cada perfil especifico. O app sera acessado atravez de login que trara telas e informações diferentes dependendo das credenciais de cada perfil.
-
-O app cliente coleta dados dos hardwere e SO dos totens e os envia para o app web, que gera informações como dashboards, indicandres de totens fora de sistema, etc. Além de ter uma dash propria que coleta dados do sistema e exibi diretamente no app cliente, a equipe de suporte tem acesso ao aplicativo cliente instalado nos totens para acompanhar e resolver problemas de forma remota, utilizando de login para poder acessar o app cliente.
-
 O sistema contará com três tipos de perfil de usuário:
 
 Administrador (ADM): Responsável pelo CRUD (Create, Read, Update, Delete) dos usuários do sistema, tendo acesso a todas as informações de cada usuario e a todos os perfis.
@@ -15,8 +9,9 @@ Gerência/Supervisores: Têm acesso às informações (não tecnicas) de status 
 
 
 User Stories
+-eu enquanto gerente da companhia aérea quero que sua aplicação seja protegida contra ameaças de segurança ao sistema
 
--eu enquanto gerente da companhia aerea quero poder efetuar um futuro desligamento de um funcionário através do meu perfil em sua aplicação
+-eu enquanto gerente da companhia aerea quero poder efetuar gerenciar meus funcionários (desligamento, mudança de perfil e cadastro de novo funcionário) através do meu perfil em sua aplicação
 
 -eu enquanto suporte da companhia aerea quero realizar os processos de desligar e reiniciar os totens através da sua aplicação para poder controlar o funcionamento da máquina
 
